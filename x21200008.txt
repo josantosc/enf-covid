@@ -1,0 +1,3782 @@
+RESP  	13 
+PAP   	19	30	9 
+ABP   	65	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	13 
+PAP   	19	29	10 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	91
+PULSE 	82 
+RESP  	12 
+PAP   	19	29	10 
+ABP   	65	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	19	28	10 
+ABP   	65	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	20	29	10 
+ABP   	65	101	48 
+HR    	82 
+SpO2  	91
+PULSE 	82 
+RESP  	14 
+PAP   	20	29	10 
+ABP   	65	101	48 
+HR    	82 
+SpO2  	80
+PULSE 	82 
+RESP  	14 
+PAP   	19	28	10 
+ABP   	80	101	90
+HR    	20
+SpO2  	92 
+PULSE 	126
+RESP  	14 
+PAP   	19	27	10 
+ABP   	65	101	48 
+HR    	12
+SpO2  	92 
+PULSE 	83 
+RESP  	19 
+PAP   	19	25	13 
+ABP   	63	101	48 
+HR    	82 
+SpO2  	92 
+PULSE 	83 
+RESP  	19 
+PAP   	19	28	12 
+ABP   	64	102	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	21 
+PAP   	19	27	13 
+ABP   	63	101	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	21 
+PAP   	19	28	11 
+ABP   	63	101	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	21 
+PAP   	19	28	11 
+ABP   	63	101	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	21 
+PAP   	19	28	10 
+ABP   	64	100	47 
+HR    	83 
+SpO2  	92 
+PULSE 	78 
+RESP  	21 
+PAP   	19	27	11 
+ABP   	64	100	47 
+HR    	83 
+SpO2  	92 
+PULSE 	78 
+RESP  	23 
+PAP   	19	27	11 
+ABP   	64	100	47 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+RESP  	22 
+PAP   	20	28	11 
+ABP   	64	101	47 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+RESP  	23 
+PAP   	20	28	11 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+RESP  	23 
+PAP   	20	28	11 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	23 
+PAP   	20	28	11 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	29 
+PAP   	20	28	11 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	28 
+PAP   	20	29	10 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	27 
+PAP   	19	27	8 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	26 
+PAP   	19	27	9 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	30 
+PAP   	19	27	9 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	30 
+PAP   	19	28	9 
+ABP   	65	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	30 
+PAP   	19	27	9 
+ABP   	65	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	30 
+PAP   	19	27	9 
+ABP   	65	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	26 
+PAP   	19	27	9 
+ABP   	65	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	26 
+PAP   	19	27	9 
+ABP   	65	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	26 
+PAP   	19	27	10 
+ABP   	65	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	26 
+PAP   	19	27	9 
+ABP   	65	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	26 
+PAP   	19	27	10 
+ABP   	65	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	24 
+PAP   	19	27	9 
+ABP   	65	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	24 
+PAP   	20	29	10 
+ABP   	65	102	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	24 
+PAP   	19	29	10 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	24 
+PAP   	19	29	10 
+ABP   	64	103	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	24 
+PAP   	19	28	9 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	20 
+PAP   	19	28	9 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	78 
+RESP  	20 
+PAP   	20	28	11 
+ABP   	64	101	47 
+HR    	77 
+SpO2  	93 
+PULSE 	78 
+RESP  	20 
+PAP   	20	27	12 
+ABP   	64	101	47 
+HR    	77 
+SpO2  	93 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	20	27	10 
+ABP   	64	101	47 
+HR    	77 
+SpO2  	93 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	20	27	10 
+ABP   	63	100	47 
+HR    	77 
+SpO2  	93 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	20	27	11 
+ABP   	63	100	47 
+HR    	77 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	20	27	11 
+ABP   	63	100	47 
+HR    	77 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	21	28	11 
+ABP   	63	100	47 
+HR    	77 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	21	27	13 
+ABP   	33 
+HR    	77 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	21	28	12 
+ABP   	58 
+HR    	77 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	20	27	12 
+ABP   	61	96	46 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	19	27	10 
+ABP   	61	96	46 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	9 
+ABP   	61	96	46 
+HR    	83 
+SpO2  	93 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	28	9 
+ABP   	62	97	46 
+HR    	83 
+SpO2  	93 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	10 
+ABP   	62	97	47 
+HR    	83 
+SpO2  	93 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	9 
+ABP   	62	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	9 
+ABP   	63	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	9 
+ABP   	63	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	10 
+ABP   	63	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	28	10 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	19	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	19	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	20	28	13 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	22	27	16 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	21	28	14 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	21	29	13 
+ABP   	63	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	21	29	13 
+ABP   	63	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	20	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	20	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	31	8 
+ABP   	62	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	30	8 
+ABP   	62	100	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	30	8 
+ABP   	62	100	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	30	8 
+ABP   	62	100	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	28	9 
+ABP   	62	100	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	28	10 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	27	12 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	27	11 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	26	11 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	27	11 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	26	11 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	26	10 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	26	11 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	26	10 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	20	27	11 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	20	27	13 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	20	27	12 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	26	10 
+ABP   	62	100	47 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	27	10 
+ABP   	62	101	46 
+HR    	84 
+SpO2  	93 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	27	10 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	27	10 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	26	9 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	26	9 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	18	26	8 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	19 
+PAP   	19	26	9 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	26	9 
+ABP   	63	100	46 
+HR    	84 
+SpO2  	93 
+PULSE 	79 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	27	10 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	10 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	9 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	26	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	27	9 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	26	9 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	26	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	26	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	19	29	9 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	19	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	26	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	19	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	19	28	9 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	19	29	10 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	19	28	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	19	29	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	29	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	28	8 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	19	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	19	28	9 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	21	27	14 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	21	26	15 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	26 
+PAP   	21	29	14 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	21	28	13 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	21	28	13 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	23 
+PAP   	21	28	13 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	21	28	12 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	20	29	11 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	20	29	11 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	20	29	10 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	19	28	9 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	19	28	9 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	20	29	9 
+ABP   	63	99	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	19	28	9 
+ABP   	63	99	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	19	28	10 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	25 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	24 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	27	9 
+ABP   	64	100	47 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	27	10 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	27	10 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	19 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	19	26	9 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	0 
+PAP   	19	27	10 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	10 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	9 
+ABP   	63	100	47 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	10 
+ABP   	63	100	47 
+HR    	80 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	26	10 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	19	27	10 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	19	27	9 
+ABP   	63	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	19	27	9 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	26	8 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	26	8 
+ABP   	63	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	26	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	26	8 
+ABP   	63	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	7 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	8 
+PAP   	18	27	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	7 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	6 
+PAP   	18	27	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	7 
+ABP   	62	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	28	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	28	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	19	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	19	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	8 
+PAP   	18	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	27	8 
+ABP   	63	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	8 
+ABP   	63	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	26	8 
+ABP   	64	100	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	27	8 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	26	8 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	26	8 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	26	8 
+ABP   	64	100	48 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	26	8 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	8 
+ABP   	64	100	48 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	28	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	27	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	17	26	8 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	17	26	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	28	9 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	27	9 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	9 
+ABP   	64	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	9 
+ABP   	64	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	17 
+PAP   	18	26	9 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	19	26	9 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	19	26	9 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	63	101	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	27	9 
+ABP   	62	100	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	9 
+ABP   	62	100	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	28	9 
+ABP   	62	100	46 
+HR    	85 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	9 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	9 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	27	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	17	26	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	14 
+PAP   	18	26	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	26	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	18	26	9 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	18	26	8 
+ABP   	61	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	26	8 
+ABP   	61	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	27	8 
+ABP   	61	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	8 
+PAP   	18	27	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	8 
+PAP   	18	27	8 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	0 
+PAP   	18	27	9 
+ABP   	61	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	0 
+PAP   	18	27	9 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	0 
+PAP   	18	27	8 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	0 
+PAP   	18	28	8 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	19	28	10 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	19	28	10 
+ABP   	61	97	45 
+HR    	82 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	19	28	10 
+ABP   	61	97	45 
+HR    	82 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	26	9 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	9 
+ABP   	61	97	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	9 
+ABP   	61	97	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	8 
+ABP   	62	97	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+ALARM	** MISSED BEATS    
+RESP  	9 
+PAP   	18	27	8 
+ABP   	62	97	46 
+HR    	80 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	8 
+PAP   	18	28	8 
+ABP   	62	97	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	28	8 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	18	27	8 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	10 
+PAP   	17	27	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	17	27	6 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	11 
+PAP   	17	27	6 
+ABP   	62	98	47 
+HR    	82 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	12 
+PAP   	17	27	5 
+ABP   	62	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	17	28	6 
+ABP   	62	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	17	28	5 
+ABP   	62	98	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	29	6 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	29	5 
+ABP   	62	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	13 
+PAP   	18	29	6 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	29	6 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	30	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	30	6 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	30	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	29	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	29	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	21 
+PAP   	18	29	8 
+ABP   	62	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	17	27	9 
+ABP   	62	100	46 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	84 
+SpO2  	91 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	84 
+SpO2  	91 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	22 
+PAP   	18	28	8 
+ABP   	62	98	46 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	18	28	8 
+ABP   	62	98	46 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	18	28	8 
+ABP   	62	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	78 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	18	27	8 
+ABP   	62	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	20 
+PAP   	18	27	8 
+ABP   	62	98	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	27	8 
+ABP   	62	98	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	18 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	7 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	19	29	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	19	29	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	8 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	16 
+PAP   	18	28	8 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	9 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+ALARM	** MISSED BEATS    
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	18	28	7 
+ABP   	64	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	18	27	8 
+ABP   	64	101	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	18	28	8 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	13 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	12 
+PAP   	18	28	8 
+ABP   	63	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	64	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	63	101	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	63	100	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	62	100	46 
+HR    	83 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+RESP  	10 
+PAP   	19	29	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	83 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	83 
+RESP  	11 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	12 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	12 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	13 
+PAP   	18	28	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	17 
+PAP   	18	28	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	17 
+PAP   	18	27	7 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	82 
+RESP  	17 
+PAP   	18	28	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	92 
+PULSE 	82 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	82 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	92 
+PULSE 	81 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	92 
+PULSE 	81 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	61	99	45 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	60	98	45 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+RESP  	17 
+PAP   	18	27	8 
+ABP   	60	98	45 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+RESP  	16 
+PAP   	18	27	7 
+ABP   	60	97	45 
+HR    	84 
+SpO2  	92 
+PULSE 	80 
+RESP  	15 
+PAP   	18	27	8 
+ABP   	60	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+RESP  	14 
+PAP   	18	27	8 
+ABP   	60	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+RESP  	13 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	80 
+RESP  	12 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	81 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	81 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	81 
+RESP  	0 
+PAP   	18	26	8 
+ABP   	61	97	45 
+HR    	81 
+SpO2  	92 
+PULSE 	81 
+RESP  	12 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	27	8 
+ABP   	61	97	45 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	27	8 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	13 
+PAP   	18	27	8 
+ABP   	61	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	62	97	46 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	19	28	9 
+ABP   	62	98	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	19	28	9 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	19	28	9 
+ABP   	62	98	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	18	28	9 
+ABP   	62	98	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	13 
+PAP   	18	28	8 
+ABP   	63	98	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	19	28	9 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	14 
+PAP   	17	29	8 
+ABP   	61	99	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	17	29	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	18	30	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	29 
+PAP   	18	30	8 
+ABP   	62	99	46 
+HR    	86 
+SpO2  	93 
+PULSE 	82 
+RESP  	29 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	30 
+PAP   	18	29	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	30 
+PAP   	19	30	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	30 
+PAP   	19	29	8 
+ABP   	62	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	30 
+PAP   	19	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	30 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	29 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	83 
+SpO2  	93 
+PULSE 	84 
+RESP  	25 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	93 
+PULSE 	84 
+RESP  	25 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	81 
+SpO2  	93 
+PULSE 	84 
+RESP  	23 
+PAP   	18	29	8 
+ABP   	63	99	47 
+HR    	84 
+SpO2  	93 
+PULSE 	84 
+RESP  	23 
+PAP   	18	29	8 
+ABP   	63	100	47 
+HR    	84 
+SpO2  	93 
+PULSE 	84 
+RESP  	22 
+PAP   	18	28	8 
+ABP   	63	100	48 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	22 
+PAP   	19	27	9 
+ABP   	63	100	48 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	22 
+PAP   	19	27	10 
+ABP   	63	100	48 
+HR    	84 
+SpO2  	93 
+PULSE 	83 
+RESP  	22 
+PAP   	19	26	10 
+ABP   	63	100	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	22 
+PAP   	19	27	10 
+ABP   	64	100	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	20 
+PAP   	18	27	10 
+ABP   	63	100	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	20 
+PAP   	18	28	7 
+ABP   	64	100	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	20 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	20 
+PAP   	19	27	9 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	101	48 
+HR    	84 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	101	48 
+HR    	85 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	101	48 
+HR    	85 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	26	10 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	85 
+RESP  	20 
+PAP   	19	27	10 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	84 
+RESP  	19 
+PAP   	19	27	10 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	84 
+RESP  	18 
+PAP   	20	29	10 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	84 
+RESP  	17 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	85 
+SpO2  	92 
+PULSE 	84 
+RESP  	16 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	84 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	13 
+PAP   	20	30	9 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	13 
+PAP   	19	29	10 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	13 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	12 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	84 
+SpO2  	92 
+PULSE 	83 
+RESP  	12 
+PAP   	19	29	9 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	92 
+PULSE 	83 
+RESP  	12 
+PAP   	19	29	9 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	12 
+PAP   	19	28	9 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	83 
+RESP  	12 
+PAP   	18	28	8 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	12 
+PAP   	18	28	8 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	64	102	48 
+HR    	83 
+SpO2  	93 
+PULSE 	82 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	64	102	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	27	8 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	27	8 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	28	8 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	28	8 
+ABP   	64	102	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	102	48 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	48 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	8 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	10 
+PAP   	18	29	7 
+ABP   	64	101	47 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	10 
+PAP   	18	29	7 
+ABP   	64	101	47 
+HR    	81 
+SpO2  	94 
+PULSE 	81 
+RESP  	10 
+PAP   	18	28	7 
+ABP   	63	101	47 
+HR    	81 
+SpO2  	94 
+PULSE 	80 
+RESP  	10 
+PAP   	18	28	7 
+ABP   	63	101	47 
+HR    	81 
+SpO2  	94 
+PULSE 	80 
+RESP  	10 
+PAP   	18	28	8 
+ABP   	63	101	47 
+HR    	81 
+SpO2  	94 
+PULSE 	80 
+RESP  	13 
+PAP   	18	29	7 
+ABP   	63	101	47 
+HR    	81 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	63	101	47 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	28	8 
+ABP   	63	101	47 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	62	101	45 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	62	101	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	62	101	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	8 
+ABP   	62	100	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	14 
+PAP   	18	28	8 
+ABP   	62	100	46 
+HR    	80 
+SpO2  	94 
+PULSE 	80 
+RESP  	14 
+PAP   	19	30	8 
+ABP   	62	100	46 
+HR    	80 
+SpO2  	94 
+PULSE 	80 
+RESP  	14 
+PAP   	19	30	8 
+ABP   	62	100	46 
+HR    	80 
+SpO2  	94 
+PULSE 	80 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	61	100	46 
+HR    	81 
+SpO2  	94 
+PULSE 	80 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	61	99	45 
+HR    	81 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	61	99	45 
+HR    	81 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	62	99	46 
+HR    	84 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	60	99	46 
+HR    	81 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	30	8 
+ABP   	61	100	44 
+HR    	81 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	29	7 
+ABP   	61	99	45 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	29	7 
+ABP   	61	98	45 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	28	7 
+ABP   	61	98	45 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	14 
+PAP   	18	28	7 
+ABP   	61	98	45 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	13 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	12 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	82 
+SpO2  	94 
+PULSE 	82 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	94 
+PULSE 	82 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	94 
+PULSE 	82 
+RESP  	9 
+PAP   	18	29	8 
+ABP   	62	99	46 
+HR    	83 
+SpO2  	94 
+PULSE 	82 
+RESP  	8 
+PAP   	18	28	8 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	94 
+PULSE 	82 
+RESP  	8 
+PAP   	17	28	8 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	82 
+RESP  	0 
+PAP   	17	27	7 
+ABP   	62	98	46 
+HR    	83 
+SpO2  	94 
+PULSE 	82 
+RESP  	0 
+PAP   	17	27	7 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	94 
+PULSE 	81 
+RESP  	0 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	82 
+SpO2  	94 
+PULSE 	80 
+RESP  	10 
+PAP   	18	30	8 
+ABP   	62	99	46 
+HR    	82 
+SpO2  	94 
+PULSE 	80 
+RESP  	10 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	28	8 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	27	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	27	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	18	29	8 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	10 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	18	28	7 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	18	28	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	94 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	17	27	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	8 
+PAP   	18	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+RESP  	8 
+PAP   	18	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+RESP  	8 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	18	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	17	29	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	17	27	6 
+ABP   	61	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	7 
+PAP   	17	28	6 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	79 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	79 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	7 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	7 
+PAP   	17	28	6 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	6 
+PAP   	17	29	6 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	5 
+PAP   	18	29	7 
+ABP   	62	99	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	4 
+PAP   	18	28	7 
+ABP   	62	99	46 
+HR    	79 
+SpO2  	93 
+PULSE 	80 
+RESP  	3 
+PAP   	17	27	7 
+ABP   	62	99	46 
+HR    	79 
+SpO2  	93 
+PULSE 	81 
+RESP  	10 
+PAP   	18	28	7 
+ABP   	63	99	47 
+HR    	79 
+SpO2  	93 
+PULSE 	81 
+RESP  	10 
+PAP   	18	28	7 
+ABP   	63	99	47 
+HR    	80 
+SpO2  	93 
+PULSE 	82 
+RESP  	12 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+RESP  	12 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	82 
+RESP  	12 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	13 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	19	28	9 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	15 
+PAP   	19	27	10 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	82 
+RESP  	21 
+PAP   	19	28	10 
+ABP   	64	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+RESP  	21 
+PAP   	19	28	9 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+RESP  	23 
+PAP   	19	28	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+RESP  	23 
+PAP   	19	30	8 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+RESP  	23 
+PAP   	18	29	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	82 
+RESP  	23 
+PAP   	18	29	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+RESP  	24 
+PAP   	18	28	7 
+ABP   	63	99	47 
+HR    	82 
+SpO2  	92 
+PULSE 	81 
+RESP  	24 
+PAP   	18	29	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	24 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	24 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	82 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	18	27	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	18	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	18	28	6 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	17	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	17	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	17	28	7 
+ABP   	63	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	17	28	7 
+ABP   	62	100	47 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	20 
+PAP   	17	28	7 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	17 
+PAP   	17	28	7 
+ABP   	62	100	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	17 
+PAP   	18	29	8 
+ABP   	62	100	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	17 
+PAP   	18	28	8 
+ABP   	62	100	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	17 
+PAP   	18	28	8 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	17 
+PAP   	18	28	7 
+ABP   	62	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	17 
+PAP   	18	28	7 
+ABP   	61	99	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	17 
+PAP   	17	27	7 
+ABP   	61	99	45 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	17 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	93 
+PULSE 	79 
+RESP  	14 
+PAP   	17	29	7 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	93 
+PULSE 	79 
+RESP  	14 
+PAP   	18	30	7 
+ABP   	61	99	45 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	14 
+PAP   	17	29	6 
+ABP   	61	98	45 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	14 
+PAP   	17	29	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	13 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	13 
+PAP   	18	30	7 
+ABP   	61	98	45 
+HR    	78 
+SpO2  	93 
+PULSE 	78 
+RESP  	13 
+PAP   	18	29	7 
+ABP   	61	98	45 
+HR    	78 
+SpO2  	93 
+PULSE 	78 
+RESP  	13 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	78 
+SpO2  	93 
+PULSE 	79 
+RESP  	13 
+PAP   	17	28	7 
+ABP   	61	98	45 
+HR    	78 
+SpO2  	93 
+PULSE 	79 
+RESP  	13 
+PAP   	17	29	7 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	13 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	80 
+RESP  	13 
+PAP   	17	29	6 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	81 
+RESP  	13 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	81 
+RESP  	12 
+PAP   	17	29	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	12 
+PAP   	17	29	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	81 
+SpO2  	93 
+PULSE 	80 
+RESP  	11 
+PAP   	18	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	79 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	62	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	79 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	80 
+SpO2  	93 
+PULSE 	78 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	11 
+PAP   	18	29	7 
+ABP   	62	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	78 
+RESP  	11 
+PAP   	17	29	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	11 
+PAP   	17	29	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
+RESP  	11 
+PAP   	17	28	7 
+ABP   	61	98	46 
+HR    	79 
+SpO2  	93 
+PULSE 	79 
